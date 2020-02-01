@@ -47841,8 +47841,8 @@ header nav.rd-navbar-static.rd-navbar-secondary .rd-navbar-nav > li.thin {
 	transition-property: all;
 	transition-timing-function: ease-out;
 }
-.join-btn.discord {
-	background-image: url(/images/btn-discord-white.png);
+.join-btn.groupme{
+	background-image: url(/images/btn-groupme.png);
 }
 .join-btn.campuslabs {
 	background-image: url(/images/btn-campuslabs-white.png);
